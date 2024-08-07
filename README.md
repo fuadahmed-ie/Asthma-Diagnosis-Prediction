@@ -1,9 +1,9 @@
 
-# Project Name: Asthma Diagnosis Prediction with Different ML Algorithms
+# Project Name: Breast Cancer Prediction
 
 ## Introduction
 
-This project aims to gain insights into the factors influencing asthma and develop robust predictive models to aid in its diagnosis and management.
+This project aims to predict whether an instance of a breast tumor is benign or malignant. 
 
 ## Notebook Summary
 
@@ -12,9 +12,5 @@ This project aims to gain insights into the factors influencing asthma and devel
 - **Data Preprocessing**: The dataset has been preprocessed, including handling missing values, encoding categorical variables, and scaling features.
 - **Model Training**: Multiple machine learning models have been trained, including:
   - Support Vector Machine (SVM)
-  - Decision Tree
-  - Random Forest
-  - XGBoost
   - K-Nearest Neighbors (KNN)
-- **Neural Network Models**: PyTorch and Numpy-based neural network models have also been implemented.
 - **Model Evaluation**: The performance of the models has been evaluated using metrics such as accuracy, precision, recall, and F1-score.
