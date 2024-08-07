@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project aims to predict whether an instance of a breast tumor is benign or malignant. 
+This project aims to predict whether an instance of a breast tumor is benign or malignant. SVM and KNN algorithm used. In the process, we created models with default parameters and then used techniques to optimize them.
 
 ## Notebook Summary
 
